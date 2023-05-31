@@ -17,7 +17,7 @@
 
 <h3> Tech Stack  <img src="https://media4.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.webp?cid=ecf05e477i2ekql7qlopo2zxz0wtt92lf3lnpkgb9d0u5o1g&rid=giphy.webp&ct=g" width="20"></h3>
 
-- 💻 &nbsp; Java | MySQL | PHP
+- 💻 &nbsp; Node.js | Firebase
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Bootstrap
 <br>
