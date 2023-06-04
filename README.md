@@ -5,23 +5,6 @@
 <h4> I’m @Nugrohowisma </h4>
 <br>
 
-<h3> About Me <img src="https://media0.giphy.com/media/pqStRjJyVEZDapW6EM/200w.webp?cid=ecf05e47nl0kda1gwdjxncrdfh8dg973qemem7xmlppklmym&rid=200w.webp&ct=g" width="30"> </h3> 
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-
-- 🎓 &nbsp; Studying Computer Science and Engineering at Universitas Nusantara PGRI, Kediri.
-
-- ✍️ &nbsp; Passionate about Web Development and Design.
-<br>
-
-
-<h3> Tech Stack  <img src="https://media4.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.webp?cid=ecf05e477i2ekql7qlopo2zxz0wtt92lf3lnpkgb9d0u5o1g&rid=giphy.webp&ct=g" width="20"></h3>
-
-- 💻 &nbsp; Node.js | Firebase
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Bootstrap
-<br>
-
 <h3> Connect with Me </h3>
 
 <p align="center">
