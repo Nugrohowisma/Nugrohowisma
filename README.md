@@ -1,16 +1,36 @@
-<img align='right' src="https://media1.giphy.com/media/aEwLTJvYxwo1L09oyP/200w.webp?cid=ecf05e47hc9ueswedql3gtuapz4b6cb0hbp4qtf6pc0ebe0f&rid=200w.webp&ct=g" width="200">
+<div align="center">
 
-<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="60">
-<h3> Hi There  <img src="https://media3.giphy.com/media/3o7TKnxVWUDneZi09i/200w.webp?cid=ecf05e47cubk6snknm66tlxdpj160eospssrqig4ssud2i6r&rid=200w.webp&ct=g" width="30"> </h3>
-<h4> I’m @Nugrohowisma </h4>
-<br>
+# Hi There! 👋
 
-<h3> Connect with Me </h3>
+<div>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150" alt="Waving Hand"/>
+</div>
 
-<p align="center">
-  
-<a href="https://www.linkedin.com/in/nugroho-wisma-nurpanto-bbb041245/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nugroho Wisma Nurpanto-blue?style=flat-square&logo=linkedin"></a>
+<h1 style="font-size: 3em;">I'm <strong>@NugrohoWisma</strong></h1>
 
-<a href="https://www.instagram.com/nugroho_wisma19/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nugroho_wisma19-purple?style=flat-square&logo=instagram"></a>
- 
-</p>
+## About Me
+
+> A passionate developer who enjoys creating and exploring new ideas. I love building web and mobile applications with a focus on simplicity and innovation.
+
+## Connect with Me
+
+<div>
+  <a href="https://www.linkedin.com/in/nugroho-wisma">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/maspan_19">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
+  </a>
+</div>
+
+## My Tools
+
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vite,react,nextjs,ts,nodejs,firebase,supabase,electron,webpack,tailwind,vscode,figma,git,postman,vercel&perline=6" alt="My Tools"/>
+</div>
+
+## Let’s Connect
+
+Feel free to reach out for collaborations or a chat about coding!
+
+</div>
